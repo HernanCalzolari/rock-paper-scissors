@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "diffEditor.wordWrap": "inherit",
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn"
+    }
+}
